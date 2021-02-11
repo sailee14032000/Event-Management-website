@@ -1,2 +1,2 @@
 ## Event-Management website
-[Check website](http://meraki.atspace.cc/)
+[View website](http://meraki.atspace.cc/)
